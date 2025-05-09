@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yogasathya/portfolio/static/css/main.f4b9e998.css",
+    "main.js": "/Yogasathya/portfolio/static/js/main.c2f334e2.js",
+    "index.html": "/Yogasathya/portfolio/index.html",
+    "main.f4b9e998.css.map": "/Yogasathya/portfolio/static/css/main.f4b9e998.css.map",
+    "main.c2f334e2.js.map": "/Yogasathya/portfolio/static/js/main.c2f334e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4b9e998.css",
+    "static/js/main.c2f334e2.js"
+  ]
+}
