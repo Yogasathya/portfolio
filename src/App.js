@@ -134,7 +134,7 @@ function App() {
                   <a href="#contact" className="bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-lg font-medium transition-colors flex items-center">
                     Contact Me <ChevronRight className="w-4 h-4 ml-1" />
                   </a>
-                 <a href="/MY_RESUME.pdf"     
+                 <a href="/portfolio/MY_RESUME.pdf"     
                   download                      
                   className="bg-white hover:bg-gray-100 text-gray-800 border border-gray-300 px-6 py-3 rounded-lg font-medium transition-colors flex items-center"
                   >
