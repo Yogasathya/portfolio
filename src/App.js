@@ -157,11 +157,7 @@ function App() {
              <div className="order-1 md:order-2 flex justify-center">
   <div className="relative">
     <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-8 border-white shadow-xl bg-indigo-100 flex items-center justify-center">
-      <img
-        src="/MY_IMG.jpg" // 👉 Replace with your actual image path
-        alt="Profile"
-        className="w-full h-full object-cover"
-      />
+      <img src={`${process.env.PUBLIC_URL}/MY_IMG.jpg`} alt="Profile" className="w-full h-full object-cover" />
     </div>
     <div className="absolute -bottom-4 -right-4 bg-white rounded-lg p-4 shadow-lg">
       <div className="text-gray-800 font-medium flex items-center">
